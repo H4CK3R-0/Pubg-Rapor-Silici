@@ -1,3 +1,14 @@
+
+ ​from​ __future__ ​import​ ​absolute_import 
+ ​from​ __future__ ​import​ ​print_function 
+ ​import​ ​requests​, ​sys​, ​threading​, ​time​, ​os​, ​random 
+ ​import​ ​json 
+ ​from​ ​colorama​ ​import​ ​Fore 
+ ​CheckVersion​ ​=​ ​str​(​sys​.​version​) 
+ ​import​ ​re 
+ ​from​ ​datetime​ ​import​ ​datetime
+
+
 mkdir @Raporsilici
 
 COUNT=1
